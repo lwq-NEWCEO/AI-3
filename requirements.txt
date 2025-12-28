@@ -1,0 +1,19 @@
+# 核心框架（适配CUDA 12.8 + Python 3.14）
+torch>=2.5.0+cu128
+
+# 指标计算（与torch版本兼容）
+torchmetrics>=1.3.0
+torchtext>=0.16.0
+bert-score>=0.3.15
+
+# 数据处理（支持Python 3.14）
+pandas>=2.2.0
+numpy>=1.26.0
+scikit-learn>=1.4.0
+
+# 可视化（兼容Python 3.14）
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# 进度条
+tqdm>=4.66.0
