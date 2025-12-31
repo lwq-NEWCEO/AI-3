@@ -34,8 +34,10 @@ Github：https://github.com/lwq-NEWCEO/AI-3/
 # 📂 2. 项目结构
 
 ## 提示：这里所有的模型都需要自行训练等待训练完成保存成如下路径才可以继续实验，因为.pt文件太大没有上传。
+## 最佳模型结果保存在：pic/final_mixed_leaderboard.csv
 
 ```text
+
 (AI) D:\机器学习-吴恩达\当代人工智能\实验\当代人工智能-实验四>tree /f /a
 卷 Data 的文件夹 PATH 列表
 卷序列号为 58AE-8AAD
