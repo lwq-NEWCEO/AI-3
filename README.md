@@ -342,11 +342,11 @@ D:.
         evaluate_transformer.cpython-310.pyc
 
 ```
-## ⚙️ 3. 安装与环境 (Installation)
+# ⚙️ 3. 安装与环境 
 本项目基于 Python 3.14 开发，支持 CPU 和 GPU 训练（推荐使用 GPU）。
 
 
-# 🚀 4. 快速开始 (Usage)
+# 🚀 4. 快速开始
 
 ## 1.rnn实验——
 1.1 train.py（从原生rnn到变体gru的代码）
@@ -548,7 +548,7 @@ trans_experiments = [
 
 至此，本研究通过系统实验验证了Transformer架构在神经机器翻译任务上的代际优势，不仅在于翻译精度，更在于训练效率和推理速度的全面提升。
 
-# 6关键问题探讨 (Q&A)
+# 6关键问题探讨
 
 ## Q1: 为什么 RNN 模型出现了“越深越差”的退化现象？
 
@@ -682,6 +682,6 @@ https://arxiv.org/abs/1409.3215
 * Kingma, D. P., & Ba, J. (2014)
 * https://arxiv.org/abs/1412.6980
 
-# 🤝 致谢 (Acknowledgements)
+# 🤝 致谢！！
 
 感谢 TorchText 与 SpaCy 社区提供的基础工具支持。实验设计参考了 "Attention Is All You Need" 原文及 PyTorch 官方最佳实践。
